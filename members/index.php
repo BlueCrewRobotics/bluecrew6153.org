@@ -17,18 +17,13 @@ include_once('../resources/include/navbar.php');
 <div class="row">
     <div class="col-sm-6">
     <div>
-        <h2>Mentors</h2>
+        <h3>Mentors</h3>
     </div>
     <div>
-        <p><b>Richard Wilde</b><br />Coach<br /><a href="mailto:wilde@bluecrew6153.org" target="_top">wilde@bluecrew6153.org</a></p>
+        <p><b>Richard Wilde</b><br />Lead Coach<br /><a href="mailto:wilde@bluecrew6153.org" target="_top">wilde@bluecrew6153.org</a></p>
     </div>
     <div>
         <p><b>Joel Pike</b><br />Mentor<br /><a href="mailto:joel@bluecrew6153.org" target="_top">joel@bluecrew6153.org</a></p>
-    </div>
-    </div>
-    <div class="col-sm-6">
-    <div>
-        <h2>Students</h2>
     </div>
     <div>
         <h3>Leadership</h3>
@@ -67,6 +62,14 @@ include_once('../resources/include/navbar.php');
         <p><b>Chandler Pike</b><br />Design Director<br /><a href="mailto:chandler@bluecrew6153.org" target="_top">chandler@bluecrew6153.org</a></p>
     </div>
     <div>
+        <h3>Safety</h3>
+    </div>
+    <div>
+        <p><b>Katie Holmes</b><br />Safety Director<br /><a href="mailto:katie@bluecrew6153.org" target="_top">katie@bluecrew6153.org</a></p>
+    </div>
+    </div>
+    <div class="col-sm-6">
+    <div>
         <h3>Software Engineering</h3>
     </div>
     <div>
@@ -95,12 +98,6 @@ include_once('../resources/include/navbar.php');
     </div>
     <div>
         <p><b>Lucien Hammond</b><br />Driver<br /><a href="mailto:lucien@bluecrew6153.org" target="_top">lucien@bluecrew6153.org</a></p>
-    </div>
-    <div>
-        <h3>Safety</h3>
-    </div>
-    <div>
-        <p><b>Katie Holmes</b><br />Safety Director<br /><a href="mailto:katie@bluecrew6153.org" target="_top">katie@bluecrew6153.org</a></p>
     </div>
     <div>
         <h3>Social Media</h3>
