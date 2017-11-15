@@ -21,8 +21,20 @@ include_once('../../resources/include/navbar.php');
         </div>
         <br />
         <div>
+            <a href="http://www.utc.com/" target="_blank">
+            <img  src="../../resources/images/utc.png" class="img-responsive float-left">
+            </a>
+        </div>
+        <br /><br />
+        <div>
             <a href="http://www.pw.utc.com/" target="_blank">
-            <img  src="http://www.blrck.com/wp-content/uploads/2015/03/Pratt-Whitney.png" class="img-responsive float-left">
+            <img  src="../../resources/images/pw.png" class="img-responsive float-left">
+            </a>
+        </div>
+        <br /><br />
+        <div>
+            <a href="http://www.robotsinme.org" target="_blank">
+            <img  src="../../resources/images/rim.jpg" class="img-responsive float-left">
             </a>
         </div>
         <div class="clear"></div>
@@ -32,7 +44,9 @@ include_once('../../resources/include/navbar.php');
             <h2>Gold Sponsors</h2>
         </div>
         <div>
-            <p>None yet. Are you interested in becoming one? If so, <a href="../information/">click here</a>.</p>
+            <a href="https://www.franklinsavings.bank" target="_blank">
+            <img  src="../../resources/images/fsb.gif" class="img-responsive float-left">
+            </a>
         </div>
     </div>
 </div>
