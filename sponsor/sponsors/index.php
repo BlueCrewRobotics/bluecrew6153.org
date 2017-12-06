@@ -37,6 +37,12 @@ include_once('../../resources/include/navbar.php');
             <img  src="../../resources/images/rim.jpg" class="img-responsive float-left">
             </a>
         </div>
+        <br /><br />
+        <div>
+            <a href="http://www.gearupme.org" target="_blank">
+            <img  src="../../resources/images/gearup.jpg" class="img-responsive float-left">
+            </a>
+        </div>
         <div class="clear"></div>
     </div>
     <div class="col-sm-6">
