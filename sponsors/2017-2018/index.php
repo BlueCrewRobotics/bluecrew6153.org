@@ -75,6 +75,11 @@ include_once('../../resources/include/navbar.php');
         </div>
         <div>
         <div>
+            <a href="http://mixedupkitchen.com" target="_blank">
+            <img  src="../../resources/images/mixedup.png" class="img-responsive float-left">
+            </a>
+        </div>
+        <div>
             <a href="http://www.hannaford.com/" target="_blank">
             <img  src="../../resources/images/hannaford.png" class="img-responsive float-left">
             </a>

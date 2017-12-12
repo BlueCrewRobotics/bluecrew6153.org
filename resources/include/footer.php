@@ -24,8 +24,8 @@
           <h4>Sponsor</h4>
           <ul class="list-unstyled">
             <li><a href="#"></a></li>
-            <li><a href="/sponsor/sponsors/">Our Sponsors</a></li>
-            <li><a href="/sponsor/information/">Sponsor Us</a></li>
+            <li><a href="/sponsors/2017-2018/">Our Sponsors</a></li>
+            <li><a href="/sponsors/information/">Sponsor Us</a></li>
           </ul>
         </div>
       </div>

@@ -25,8 +25,8 @@
         <li class="dropdown">
           <a href="/sponsor/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsor <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/sponsor/sponsors/">Our Sponsors</a></li>
-            <li><a href="/sponsor/information/">Sponsorship Information</a></li>
+            <li><a href="/sponsors/2017-2018/">Our Sponsors</a></li>
+            <li><a href="/sponsors/information/">Sponsorship Information</a></li>
           </ul>
         </li>
         <li class="dropdown">
