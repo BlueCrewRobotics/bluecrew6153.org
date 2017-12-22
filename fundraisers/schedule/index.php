@@ -15,8 +15,7 @@ include_once('../../resources/include/navbar.php');
 <h1>Schedule</h1>
 
 <div>
-    <h2>Mt. Blue Craft Fair</h2>
-    <p>November 18 at Mt. Blue High School</p>
+    <h2>There are currently no fundraisers scheduled.</h2>
 </div>
 
 </div>
