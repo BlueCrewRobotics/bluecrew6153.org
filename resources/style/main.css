@@ -9,6 +9,12 @@ body {
 section {
   flex: 1 0 auto;
 }
+.btn-primary {
+    background: #1565C0;
+}
+.btn-primary:hover {
+    background: #125AAC;
+}
 .carousel {
     width: 100%;
     margin: 0 auto;

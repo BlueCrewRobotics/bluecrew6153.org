@@ -48,7 +48,7 @@ else {
 <div class="media">
     <div class="media-left" style="padding-left: 20px;">
         <a href="https://www.firstinspires.org/robotics/frc" target="_blank">
-        <img class="media-object" src="../resources/images/frc.jpg" width="100" height="75">
+        <img class="media-object" src="../resources/images/frc.jpg" width="100" height="70">
         </a>
     </div>
     <div class="media-body">
