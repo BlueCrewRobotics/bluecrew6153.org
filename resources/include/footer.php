@@ -62,7 +62,7 @@
       <div class="row">
         <div class="col-xs-12">
           <!--Footer Bottom-->
-          <p class="text-xs-center">&copy; Copyright <?= date("Y"); ?> Blue Crew Robotics.  All rights reserved. Made with <i class="fa fa-heart"></i> by <a href="https://github.com/MatthewGallant" target="_blank">Matthew Gallant</a>.</p>
+          <p class="text-xs-center">&copy; Copyright <?= date("Y"); ?> Blue Crew Robotics.  All rights reserved. Made with <i class="fa fa-heart"></i> by <a href="http://matthewgallant.me" target="_blank">Matthew Gallant</a>.</p>
         </div>
       </div>
     </div>
