@@ -20,6 +20,10 @@ include_once('../../resources/include/navbar.php');
             <h2>Platinum Sponsors</h2>
         </div>
         <br />
+        <div align="center">
+            <h1>The Bjorn Family</h1>
+        </div>
+        <br /><br />
         <div>
             <a href="http://www.utc.com/" target="_blank">
             <img  src="../../resources/images/utc.png" class="img-responsive float-left">
