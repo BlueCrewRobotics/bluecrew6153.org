@@ -21,7 +21,7 @@ include_once('../../resources/include/navbar.php');
         </div>
         <br />
         <div align="center">
-            <h1>The Bjorn Family</h1>
+            <h1><b>The Bjorn Family</b></h1>
         </div>
         <br /><br />
         <div>
@@ -45,6 +45,11 @@ include_once('../../resources/include/navbar.php');
         <div>
             <a href="http://www.gearupme.org" target="_blank">
             <img  src="../../resources/images/gearup.jpg" class="img-responsive float-left">
+            </a>
+        </div>
+        <div>
+            <a href="http://www.eaglecreekre.com" target="_blank">
+            <img  src="../../resources/images/eagle-creek.jpg" class="img-responsive float-left">
             </a>
         </div>
         <div class="clear"></div>
@@ -78,6 +83,11 @@ include_once('../../resources/include/navbar.php');
             <h2>Bronze Sponsors</h2>
         </div>
         <div>
+        <div>
+            <a href="http://kennebec.com" target="_blank">
+            <img  src="../../resources/images/kennebec-technologies.png" class="img-responsive float-left">
+            </a>
+        </div>
         <div>
             <a href="http://mixedupkitchen.com" target="_blank">
             <img  src="../../resources/images/mixedup.png" class="img-responsive float-left">
