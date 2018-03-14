@@ -21,6 +21,9 @@ include_once('../resources/include/navbar.php');
         <p><b>Team Handbook</b><br />PDF<br /><a href="../resources/documents/BlueCrewHandbook.pdf" target="_blank">View</a></p>
     </div>
     <div>
+        <p><b>Team Pamphlet</b><br />PDF<br /><a href="../resources/documents/BlueCrewPamphlet.pdf" target="_blank">View</a></p>
+    </div>
+    <div>
         <p><b>3D Printer Documentation</b><br />PDF<br /><a href="../resources/documents/BlueCrew3DPrinterDocumentation.pdf" target="_blank">View</a></p>
     </div>
 </div>
