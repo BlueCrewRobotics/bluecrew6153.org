@@ -36,7 +36,15 @@ include_once('resources/include/navbar.php');
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-        <img src="resources/images/2017.jpg" alt="...">
+        <img src="resources/images/2018.jpg" alt="...">
+        <script type="text/javascript">
+            if(window.innerWidth >= 800 && window.innerHeight >= 600) {
+                document.write('<div class="carousel-caption"><h3>Winning the Entrepreneurship Award at Pine Tree</h3></div>');
+            }
+        </script>
+        </div>
+        <div class="item">
+        <img src="resources/images/2018_2.jpg" alt="...">
         <script type="text/javascript">
             if(window.innerWidth >= 800 && window.innerHeight >= 600) {
                 document.write('<div class="carousel-caption"><h3>Our Team</h3></div>');
@@ -48,14 +56,6 @@ include_once('resources/include/navbar.php');
         <script type="text/javascript">
             if(window.innerWidth >= 800 && window.innerHeight >= 600) {
                 document.write('<div class="carousel-caption"><h3>Pratt &amp; Whitney</h3></div>');
-            }
-        </script>
-        </div>
-        <div class="item">
-        <img src="resources/images/2017_2.jpg" alt="...">
-        <script type="text/javascript">
-            if(window.innerWidth >= 800 && window.innerHeight >= 600) {
-                document.write('<div class="carousel-caption"><h3>Team and Our Superintendent</h3></div>');
             }
         </script>
         </div>
