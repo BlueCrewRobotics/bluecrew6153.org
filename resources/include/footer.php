@@ -32,10 +32,11 @@
       <div class="col-md-3 col-sm-6">
         <!--Column1-->
         <div class="footer-pad">
-          <h4>Resources</h4>
+          <h4>Information</h4>
           <ul class="list-unstyled">
-          <li><a href="/documents/">Documents</a></li>
-          <li><a href="/developer/">Developer</a></li>
+        	<li><a href="/robots/">Our Robots</a></li>
+        	<li><a href="/members/">Team Members</a></li>
+        	<li><a href="/join/">Join The Team</a></li>
           </ul>
         </div>
       </div>
@@ -62,7 +63,7 @@
       <div class="row">
         <div class="col-xs-12">
           <!--Footer Bottom-->
-          <p class="text-xs-center">&copy; Copyright <?= date("Y"); ?> Blue Crew Robotics.  All rights reserved. Made with <i class="fa fa-heart"></i> by <a href="http://matthewgallant.me" target="_blank">Matthew Gallant</a>.</p>
+          <p class="text-xs-center">&copy; <?= date("Y"); ?> Blue Crew Robotics.  All rights reserved. Website created by <a href="http://matthewgallant.me" target="_blank">Matthew Gallant</a>.</p>
         </div>
       </div>
     </div>
